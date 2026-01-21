@@ -69,6 +69,7 @@ Prompts & audit file
 All prompts and iterations are logged at `prompts/prompts.md` (required for the assessment).
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Or Click the link https://angular-mini-project-one.vercel.app/ here is a Deployed project you can access directly without running the project
 
 ## Code scaffolding
 
